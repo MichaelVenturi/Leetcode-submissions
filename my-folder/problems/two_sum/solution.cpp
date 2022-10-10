@@ -1,20 +1,19 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        vector<int> indices;
-        bool flag = false;
-        for(int i = 0; i < nums.size()-1; i++){
-            for(int j = i + 1; j < nums.size(); j++){
-                if(nums[i] + nums[j] == target){
-                    indices.push_back(i);
-                    indices.push_back(j);
-                    flag = true;
-                }
-                if(flag == true){
-                    break;
-                }
-            }
+        
+        map<int, int>compliments;
+        int compliment;
+        for(int i = 0; i < nums.size(); i++){
+            
+            compliment = target - nums[i];
+            
+            if(compliments.count(compliment)) return {compliments[compliment], i};
+            
+            compliments[nums[i]] = i;
+            
+            
         }
-        return indices;
+        return {0};
     }
 };
