@@ -1,28 +1,22 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
+        int left(0), right(0);
+        map<char, int> m;
+        int res(0);
         
-        int strLen = s.size();
-        int start(0), end(0);
-        int result = 0;
-
-        
-        map<char, int> charMap;
-        
-        while(end < strLen) {
-            result = max(result, end - start);
-            // if the key exists, and it appears after the start index (appears in current substring)
-            if(charMap.find(s[end]) != charMap.end() && charMap[s[end]] >= start){
-                start = charMap[s[end]] + 1; 
-                charMap[s[end]] = end;
-                end++;
-            // if it does not exist, or is outside of this substring
-            }else {
-                charMap[s[end]] = end;
-                end++;
+        while(right < s.size()){
+            res = max(res, right-left);
+           if(m.find(s[right]) != m.end() && m[s[right]] >= m[s[left]]){
+                left = m[s[right]] + 1;
             }
+            m[s[right]] = right;
+            right++;
+             
         }
-        result = max(result, end - start);
-        return result;
+        
+            res = max(res, right-left);
+        
+        return res;
     }
 };
