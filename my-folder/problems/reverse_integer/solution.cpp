@@ -1,18 +1,28 @@
 class Solution {
 public:
     int reverse(int x) {
-        vector<int> digits;
-        while(x != 0) {
-            digits.push_back(x % 10);
+        if(x > INT_MAX || x < INT_MIN) return 0;
+        int r = 0;
+        int digits = 0;
+        int y = x;
+        int z = 0;
+
+        while(abs(y) > 0){
+            y /= 10;
+            digits++;
+        }
+        cout << digits << endl;
+        
+        while(abs(x) > 0){
+            r = x % 10;
             x /= 10;
+            cout << r << endl;
+            if(z+r*pow(10, digits-1) > INT_MAX || z+r*pow(10, digits-1) < INT_MIN) return 0;
+            z += r * pow(10, --digits);
+
+            //cout << r << " "  << x << " " << digits << " " << z;
+            
         }
-        long res = 0;
-        int len = digits.size()-1;
-        for(int i : digits){
-            res += i * pow(10, len);
-            if(res >= INT_MAX || res <= INT_MIN) return 0;
-            len--;
-        }
-        return res;
+        return z;
     }
 };
