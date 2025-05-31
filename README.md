@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0112-path-sum) |
+| [0210-course-schedule-ii](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0210-course-schedule-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -58,9 +59,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0112-path-sum) |
+| [0210-course-schedule-ii](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0210-course-schedule-ii) |
 ## Graph
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0210-course-schedule-ii) |
 | [1039-find-the-town-judge](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1039-find-the-town-judge) |
 | [1916-find-center-of-star-graph](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1916-find-center-of-star-graph) |
+## Topological Sort
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0210-course-schedule-ii) |
 <!---LeetCode Topics End-->
