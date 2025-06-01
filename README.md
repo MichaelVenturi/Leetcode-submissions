@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0112-path-sum) |
 | [0210-course-schedule-ii](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0210-course-schedule-ii) |
+| [1120-flower-planting-with-no-adjacent](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1120-flower-planting-with-no-adjacent) |
 ## Binary Tree
 |  |
 | ------- |
@@ -60,11 +61,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0112-path-sum) |
 | [0210-course-schedule-ii](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0210-course-schedule-ii) |
+| [1120-flower-planting-with-no-adjacent](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1120-flower-planting-with-no-adjacent) |
 ## Graph
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0210-course-schedule-ii) |
 | [1039-find-the-town-judge](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1039-find-the-town-judge) |
+| [1120-flower-planting-with-no-adjacent](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1120-flower-planting-with-no-adjacent) |
 | [1916-find-center-of-star-graph](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1916-find-center-of-star-graph) |
 ## Topological Sort
 |  |
