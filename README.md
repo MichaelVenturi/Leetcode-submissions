@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0035-search-insert-position) |
 | [1039-find-the-town-judge](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1039-find-the-town-judge) |
 ## Hash Table
 |  |
@@ -73,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0210-course-schedule-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
