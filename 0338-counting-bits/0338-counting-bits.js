@@ -4,8 +4,8 @@
  */
 var countBits = function(n) {
     if(n === 0) return [0];
-    const ans = Array.from({length: n+1}, () => -1);
-    ans[0] = 0;
+    const ans = [];
+    ans.push(0);
 
     for(let i = 0; i <= n; i++){
         let sum = 0;
