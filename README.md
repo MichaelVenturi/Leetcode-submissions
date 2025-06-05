@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0005-longest-palindromic-substring) |
+| [0338-counting-bits](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0338-counting-bits) |
 ## Array
 |  |
 | ------- |
@@ -87,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0135-candy) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
