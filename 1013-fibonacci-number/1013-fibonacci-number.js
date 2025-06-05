@@ -8,8 +8,7 @@ var fib = function(n) {
 };
 
 function fibRec (n, dp) {
-    if(n === 0) return 0;
-    if(n === 1) return 1;
+    if(n <= 1) return n;
     if(dp[n]) return dp[n];
     return fib(n-1) + fib(n - 2);
 }
