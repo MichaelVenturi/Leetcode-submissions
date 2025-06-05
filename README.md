@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0005-longest-palindromic-substring) |
 | [0338-counting-bits](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0338-counting-bits) |
+| [0747-min-cost-climbing-stairs](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0035-search-insert-position) |
 | [0135-candy](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0135-candy) |
+| [0747-min-cost-climbing-stairs](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0747-min-cost-climbing-stairs) |
 | [1039-find-the-town-judge](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1039-find-the-town-judge) |
 ## Hash Table
 |  |
