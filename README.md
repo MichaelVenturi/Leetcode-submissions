@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0005-longest-palindromic-substring) |
 | [0338-counting-bits](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0338-counting-bits) |
+| [1013-fibonacci-number](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -92,4 +93,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0338-counting-bits) |
+## Math
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
