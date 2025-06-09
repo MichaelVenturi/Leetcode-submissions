@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0399-evaluate-division) |
+| [0547-number-of-provinces](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0547-number-of-provinces) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1120-flower-planting-with-no-adjacent) |
 ## Binary Tree
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0399-evaluate-division) |
+| [0547-number-of-provinces](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0547-number-of-provinces) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1120-flower-planting-with-no-adjacent) |
 ## Graph
 |  |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0399-evaluate-division) |
+| [0547-number-of-provinces](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0547-number-of-provinces) |
 | [1039-find-the-town-judge](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1039-find-the-town-judge) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1120-flower-planting-with-no-adjacent) |
 | [1916-find-center-of-star-graph](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1916-find-center-of-star-graph) |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0399-evaluate-division) |
+| [0547-number-of-provinces](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0547-number-of-provinces) |
 ## Shortest Path
 |  |
 | ------- |
