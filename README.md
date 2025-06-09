@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0338-counting-bits) |
 | [0747-min-cost-climbing-stairs](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1236-n-th-tribonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1236-n-th-tribonacci-number) |
 ## Recursion
 |  |
 | ------- |
@@ -114,4 +116,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
