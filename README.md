@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0006-zigzag-conversion) |
 | [0049-group-anagrams](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0399-evaluate-division](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0399-evaluate-division) |
 ## Dynamic Programming
