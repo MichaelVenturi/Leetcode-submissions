@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0135-candy](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0135-candy) |
+| [0238-product-of-array-except-self](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0238-product-of-array-except-self) |
 | [0399-evaluate-division](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0399-evaluate-division) |
 | [0747-min-cost-climbing-stairs](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0747-min-cost-climbing-stairs) |
 | [1036-rotting-oranges](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1036-rotting-oranges) |
@@ -152,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1036-rotting-oranges](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1036-rotting-oranges) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
