@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0005-longest-palindromic-substring) |
+| [0049-group-anagrams](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0399-evaluate-division](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0399-evaluate-division) |
 ## Dynamic Programming
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0135-candy](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0135-candy) |
 | [0238-product-of-array-except-self](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0238-product-of-array-except-self) |
 | [0399-evaluate-division](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0399-evaluate-division) |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0049-group-anagrams) |
 | [1039-find-the-town-judge](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1039-find-the-town-judge) |
 ## Stack
 |  |
@@ -160,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0238-product-of-array-except-self) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
