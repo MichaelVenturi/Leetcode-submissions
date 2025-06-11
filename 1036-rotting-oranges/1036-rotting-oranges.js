@@ -17,7 +17,7 @@ var orangesRotting = function(grid) {
     else if(q.length === 0) return -1;  // if no rotten oranges but there are fresh oranges, it is impossible to have zero fresh oranges
     const xDir = [-1, 0, 1, 0]; // for moving left/right
     const yDir = [0, 1, 0, -1]; // for moving up/down
-    while(q.length > 0){ // while there are still rotten oranges
+    while(q.length > 0 && fresh > 0){ // while there are still fresh oranges and while there are still rotten oranges to check
         time++;
         let size = q.length;
         while(size--){ // loop for how large the queue currently is (do not keep looping here when oranges are added)
@@ -36,6 +36,6 @@ var orangesRotting = function(grid) {
         }
     }
     if(fresh > 0) return -1;
-    return time - 1; // the last loop will always have no infections.  so the last minute is spent checking, take that last minute away
+    return time;
 
 };
