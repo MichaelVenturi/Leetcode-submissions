@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0042-trapping-rain-water) |
 ## String
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0135-candy](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0135-candy) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0135-candy) |
 ## Bit Manipulation
 |  |
