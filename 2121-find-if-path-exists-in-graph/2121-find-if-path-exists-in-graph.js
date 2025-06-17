@@ -6,9 +6,9 @@
  * @return {boolean}
  */
 var validPath = function(n, edges, source, destination) {
+    if(source === destination) return true;
     const adj = Array.from({length: n}, () => []);
     for(const [a,b] of edges){
-        if(a === b) continue;
         adj[a].push(b);
         adj[b].push(a);
     }
@@ -18,7 +18,6 @@ var validPath = function(n, edges, source, destination) {
     while(q.length > 0) {
         const cur = q.shift();
         if(cur === destination) return true;
-        if(visited[cur] === 1) continue;
         for(const n of adj[cur]){
             if(visited[n] === 0){
                 visited[n] = 1;
