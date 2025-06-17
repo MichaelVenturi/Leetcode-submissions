@@ -178,4 +178,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0049-group-anagrams) |
 | [1829-maximum-units-on-a-truck](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1829-maximum-units-on-a-truck) |
+## Design
+|  |
+| ------- |
+| [1708-design-parking-system](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1708-design-parking-system) |
+## Simulation
+|  |
+| ------- |
+| [1708-design-parking-system](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1708-design-parking-system) |
+## Counting
+|  |
+| ------- |
+| [1708-design-parking-system](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1708-design-parking-system) |
 <!---LeetCode Topics End-->
