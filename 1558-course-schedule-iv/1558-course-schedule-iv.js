@@ -17,9 +17,7 @@ var checkIfPrerequisite = function(numCourses, prerequisites, queries) {
         if(indegree[i] === 0) q.push(i); // push all classes with no prereqs
 
     // opposite of adj:  track all prereqs for each course, including indirect prereqs
-    const map = new Array(numCourses);
-    for(let i = 0; i < numCourses; i++) 
-        map[i] = new Set(); // empty sets, so we don't add the same course twice
+    const map = Array.from({length: numCourses}, () => new Set()); // empty sets, so we don't add the same course twice
 
     while(q.length > 0){
         const cur = q.shift();
