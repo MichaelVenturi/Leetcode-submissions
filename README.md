@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0684-redundant-connection) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1120-flower-planting-with-no-adjacent) |
+| [1558-course-schedule-iv](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1558-course-schedule-iv) |
 | [2121-find-if-path-exists-in-graph](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0684-redundant-connection) |
 | [1036-rotting-oranges](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1036-rotting-oranges) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1120-flower-planting-with-no-adjacent) |
+| [1558-course-schedule-iv](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1558-course-schedule-iv) |
 | [2121-find-if-path-exists-in-graph](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Graph
 |  |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0684-redundant-connection) |
 | [1039-find-the-town-judge](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1039-find-the-town-judge) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1120-flower-planting-with-no-adjacent) |
+| [1558-course-schedule-iv](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1558-course-schedule-iv) |
 | [1916-find-center-of-star-graph](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1916-find-center-of-star-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Topological Sort
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0210-course-schedule-ii](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0310-minimum-height-trees) |
+| [1558-course-schedule-iv](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1558-course-schedule-iv) |
 ## Binary Search
 |  |
 | ------- |
