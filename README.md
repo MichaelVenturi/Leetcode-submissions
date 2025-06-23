@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0006-zigzag-conversion) |
 | [0049-group-anagrams](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0399-evaluate-division](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0399-evaluate-division) |
+| [0974-reorder-data-in-log-files](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0974-reorder-data-in-log-files) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0238-product-of-array-except-self) |
 | [0399-evaluate-division](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0399-evaluate-division) |
 | [0747-min-cost-climbing-stairs](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0747-min-cost-climbing-stairs) |
+| [0974-reorder-data-in-log-files](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0974-reorder-data-in-log-files) |
 | [1036-rotting-oranges](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1039-find-the-town-judge) |
 | [1829-maximum-units-on-a-truck](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1829-maximum-units-on-a-truck) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0049-group-anagrams) |
+| [0974-reorder-data-in-log-files](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0974-reorder-data-in-log-files) |
 | [1829-maximum-units-on-a-truck](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1829-maximum-units-on-a-truck) |
 ## Design
 |  |
