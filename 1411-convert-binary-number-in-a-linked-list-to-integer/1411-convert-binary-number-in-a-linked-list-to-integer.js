@@ -10,16 +10,12 @@
  * @return {number}
  */
 var getDecimalValue = function(head) {
-    const arr = [];
-    let cur = head;
+    let res = 0;
+    let cur =  head;
     while(cur){
-        arr.unshift(cur.val);
+        res = res * 2 + cur.val;
         cur = cur.next;
     }
-    let sum = 0;
-    console.log(arr);
-    for(let i = 0; i < arr.length; i++){
-        sum += arr[i] * 2 ** i;
-    }
-    return sum;
+    
+    return res;
 };
