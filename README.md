@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-reorder-data-in-log-files](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0974-reorder-data-in-log-files) |
 | [1036-rotting-oranges](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1039-find-the-town-judge) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1829-maximum-units-on-a-truck](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1829-maximum-units-on-a-truck) |
 ## Hash Table
 |  |
