@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0042-trapping-rain-water) |
+| [0345-reverse-vowels-of-a-string](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [1894-merge-strings-alternately](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0006-zigzag-conversion) |
 | [0049-group-anagrams](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0049-group-anagrams) |
+| [0345-reverse-vowels-of-a-string](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0399-evaluate-division](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0399-evaluate-division) |
 | [0974-reorder-data-in-log-files](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0974-reorder-data-in-log-files) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1146-greatest-common-divisor-of-strings) |
