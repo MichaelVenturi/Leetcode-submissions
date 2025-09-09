@@ -3,18 +3,13 @@
  * @return {number[]}
  */
 var productExceptSelf = function(nums) {
-    const n = nums.length;
-
-    const res = new Array(n).fill(1);
-    let curLeft = 1;
-    let curRight = 1;
-    for(let i = 0; i < n; i++){
-        res[i] *= curLeft;
-        let j = n - i - 1;
-        res[j] *= curRight;
-        curLeft *= nums[i];
-        curRight *= nums[j];
+    const res = new Array(nums.length).fill(1);
+    let curL = 1; let curR = 1; let l = 0;  let r = nums.length - 1;
+    while(l < nums.length && r >= 0){
+        res[l] *= curL;
+        curL *= nums[l++];
+        res[r] *= curR;
+        curR *= nums[r--];
     }
-    // product except self will be the product of everything to left * the right
     return res;
 };
