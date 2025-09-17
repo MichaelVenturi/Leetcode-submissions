@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0056-merge-intervals) |
 | [0135-candy](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0135-candy) |
 | [0238-product-of-array-except-self](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0238-product-of-array-except-self) |
+| [0334-increasing-triplet-subsequence](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0334-increasing-triplet-subsequence) |
 | [0399-evaluate-division](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0399-evaluate-division) |
 | [0605-can-place-flowers](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0605-can-place-flowers) |
 | [0747-min-cost-climbing-stairs](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0747-min-cost-climbing-stairs) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0135-candy) |
+| [0334-increasing-triplet-subsequence](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0605-can-place-flowers) |
 | [1829-maximum-units-on-a-truck](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1829-maximum-units-on-a-truck) |
 ## Bit Manipulation
