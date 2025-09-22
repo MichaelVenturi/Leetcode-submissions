@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0334-increasing-triplet-subsequence) |
 | [0399-evaluate-division](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0399-evaluate-division) |
 | [0605-can-place-flowers](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0643-maximum-average-subarray-i) |
 | [0747-min-cost-climbing-stairs](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0747-min-cost-climbing-stairs) |
 | [0974-reorder-data-in-log-files](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0974-reorder-data-in-log-files) |
 | [1036-rotting-oranges](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1036-rotting-oranges) |
@@ -227,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
