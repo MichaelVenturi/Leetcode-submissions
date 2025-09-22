@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0392-is-subsequence) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1039-find-the-town-judge) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1829-maximum-units-on-a-truck](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1829-maximum-units-on-a-truck) |
 ## Hash Table
 |  |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0049-group-anagrams) |
 | [1039-find-the-town-judge](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1039-find-the-town-judge) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0056-merge-intervals) |
 | [0974-reorder-data-in-log-files](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0974-reorder-data-in-log-files) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1829-maximum-units-on-a-truck](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1829-maximum-units-on-a-truck) |
 ## Design
 |  |
