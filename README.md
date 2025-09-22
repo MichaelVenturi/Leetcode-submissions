@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0399-evaluate-division) |
 | [0974-reorder-data-in-log-files](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0974-reorder-data-in-log-files) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0338-counting-bits](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0392-is-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1236-n-th-tribonacci-number) |
