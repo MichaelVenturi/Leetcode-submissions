@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1894-merge-strings-alternately) |
+| [2470-removing-stars-from-a-string](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/2470-removing-stars-from-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
+| [2470-removing-stars-from-a-string](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/2470-removing-stars-from-a-string) |
 ## Tree
 |  |
 | ------- |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1708-design-parking-system](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1708-design-parking-system) |
 | [2428-equal-row-and-column-pairs](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/2428-equal-row-and-column-pairs) |
+| [2470-removing-stars-from-a-string](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/2470-removing-stars-from-a-string) |
 ## Counting
 |  |
 | ------- |
