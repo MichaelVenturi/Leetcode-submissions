@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0969-number-of-recent-calls](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0969-number-of-recent-calls) |
 | [1708-design-parking-system](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1708-design-parking-system) |
 ## Simulation
 |  |
@@ -256,4 +257,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Queue
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
