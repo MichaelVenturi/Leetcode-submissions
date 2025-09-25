@@ -18,7 +18,6 @@ var rightSideView = function(root) {
         let size = q.length;
         while(size--){
             const node = q.shift();
-            console.log(size);
             if(size === 0) res.push(node.val);
             if(node.left) q.push(node.left);
             if(node.right) q.push(node.right);
