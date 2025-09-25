@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1829-maximum-units-on-a-truck](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1829-maximum-units-on-a-truck) |
 | [1833-find-the-highest-altitude](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1833-find-the-highest-altitude) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2428-equal-row-and-column-pairs](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/2428-equal-row-and-column-pairs) |
 ## Hash Table
 |  |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1036-rotting-oranges) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1120-flower-planting-with-no-adjacent) |
 | [1558-course-schedule-iv](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1558-course-schedule-iv) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2121-find-if-path-exists-in-graph](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Graph
 |  |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1036-rotting-oranges](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1036-rotting-oranges) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2428-equal-row-and-column-pairs](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/2428-equal-row-and-column-pairs) |
 ## Prefix Sum
 |  |
