@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0904-leaf-similar-trees](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0904-leaf-similar-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0684-redundant-connection) |
+| [0904-leaf-similar-trees](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0904-leaf-similar-trees) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1120-flower-planting-with-no-adjacent) |
 | [1558-course-schedule-iv](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1558-course-schedule-iv) |
 | [2121-find-if-path-exists-in-graph](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/2121-find-if-path-exists-in-graph) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0904-leaf-similar-trees](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0904-leaf-similar-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
