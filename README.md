@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0437-path-sum-iii](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0904-leaf-similar-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0210-course-schedule-ii](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0399-evaluate-division) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0437-path-sum-iii](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0904-leaf-similar-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0112-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0210-course-schedule-ii](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0399-evaluate-division) |
