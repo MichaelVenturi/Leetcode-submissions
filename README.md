@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0904-leaf-similar-trees](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0904-leaf-similar-trees) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0684-redundant-connection) |
 | [0904-leaf-similar-trees](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0904-leaf-similar-trees) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1120-flower-planting-with-no-adjacent) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1558-course-schedule-iv) |
 | [2121-find-if-path-exists-in-graph](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0904-leaf-similar-trees](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0904-leaf-similar-trees) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0684-redundant-connection) |
 | [1036-rotting-oranges](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1036-rotting-oranges) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1120-flower-planting-with-no-adjacent) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1558-course-schedule-iv) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2121-find-if-path-exists-in-graph](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/2121-find-if-path-exists-in-graph) |
