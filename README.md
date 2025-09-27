@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0437-path-sum-iii](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0904-leaf-similar-trees) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0684-redundant-connection) |
 | [0904-leaf-similar-trees](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0904-leaf-similar-trees) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1120-flower-planting-with-no-adjacent) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1558-course-schedule-iv) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0437-path-sum-iii](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0904-leaf-similar-trees) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0684-redundant-connection) |
 | [1036-rotting-oranges](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1036-rotting-oranges) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1120-flower-planting-with-no-adjacent) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1558-course-schedule-iv) |
