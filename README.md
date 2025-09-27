@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0437-path-sum-iii](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0437-path-sum-iii) |
+| [0783-search-in-a-binary-search-tree](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0437-path-sum-iii](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0437-path-sum-iii) |
+| [0783-search-in-a-binary-search-tree](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -289,4 +291,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0969-number-of-recent-calls) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/MichaelVenturi/Leetcode-submissions/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
